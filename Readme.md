@@ -6,7 +6,6 @@
 
   Animations between the pages
 
-  
 
 ### Local application launch
 
